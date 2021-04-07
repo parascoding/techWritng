@@ -410,7 +410,6 @@ def printMaxofMinForEveryWindow(arr, n):
     for i in range(1, n + 1):
         print(ans[i], end = " ")
  
-# Driver Code
 if __name__ == '__main__':
  
     arr = [15, 20, 8, 30, 12, 20]
@@ -580,7 +579,6 @@ def makeEveryElementEqualtoIndex(a, n):
     
     print()
  
-# Driver Code
 arr = [ 5, 4, -1, 3, 0, 2, -1 ]
 n = len(arr)
  
@@ -751,7 +749,7 @@ def makeEveryElementEqualtoIndex(a, n):
     
     print()
  
-# Driver Code
+
 arr = [ 5, 4, -1, 3, 0, 2, -1 ]
 n = len(arr)
  
@@ -913,7 +911,7 @@ def makeEveryElementEqualtoIndex(a, n):
     
     print()
  
-# Driver Code
+
 arr = [ 5, 4, -1, 3, 0, 2, -1 ]
 n = len(arr)
  
